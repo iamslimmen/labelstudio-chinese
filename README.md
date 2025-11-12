@@ -13,5 +13,8 @@ Fully localized Label Studio Community Version
   您的浏览器不支持 video 标签。
 </video>
 
+Full process demonstration video [Click Here](./assets/labelstudio-chs-demo.mp4 "Label Studio Chinese")  
+全流程展示视频 [点击这里](./assets/labelstudio-chs-demo.mp4 "Label Studio汉化")。  
+
 For technical support, please contact 13699796386 (same number for phone and WeChat)  
 如需技术支持请联系13699796386(电话微信同号)  
