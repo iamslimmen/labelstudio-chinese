@@ -4,12 +4,12 @@
 Fully localized Label Studio Community Version  
 完全（100%）汉化 Label Studio 社区版  
 
-<img src="./assets/labelstudio-chs-screenshot-1.jpg" width="1280" height="720">  
+<img src="/iamslimmen/labelstudio-chinese/blob/main/assets/labelstudio-chs-screenshot-1.jpg" width="1280" height="720">  
 
-<img src="./assets/labelstudio-chs-screenshot-2.jpg" width="1280" height="720">  
+<img src="/iamslimmen/labelstudio-chinese/blob/main/assets/labelstudio-chs-screenshot-2.jpg" width="1280" height="720">  
 
 <video controls width="1280" height="720">
-  <source src="./assets/labelstudio-chs-demo.mp4" type="video/mp4">
+  <source src="/iamslimmen/labelstudio-chinese/blob/main/assets/labelstudio-chs-demo.mp4" type="video/mp4">
   您的浏览器不支持 video 标签。
 </video>
 
